@@ -1,0 +1,15 @@
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.AssemblyInfoInputs.cache
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.AssemblyInfo.cs
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.csproj.CoreCompileInputs.cache
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.sourcelink.json
+/Users/myattheingi/RMIT/codings/missingNumGame/bin/Debug/net8.0/missingNumGame
+/Users/myattheingi/RMIT/codings/missingNumGame/bin/Debug/net8.0/missingNumGame.deps.json
+/Users/myattheingi/RMIT/codings/missingNumGame/bin/Debug/net8.0/missingNumGame.runtimeconfig.json
+/Users/myattheingi/RMIT/codings/missingNumGame/bin/Debug/net8.0/missingNumGame.dll
+/Users/myattheingi/RMIT/codings/missingNumGame/bin/Debug/net8.0/missingNumGame.pdb
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.dll
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/refint/missingNumGame.dll
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.pdb
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/missingNumGame.genruntimeconfig.cache
+/Users/myattheingi/RMIT/codings/missingNumGame/obj/Debug/net8.0/ref/missingNumGame.dll
