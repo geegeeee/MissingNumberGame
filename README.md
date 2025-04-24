@@ -47,10 +47,12 @@ After you run the program:
 3. If the input format is wrong or has issues (like duplicates or out-of-range values), it will let you retry.
 
 ## 📁 Project Structure
+```bash
 MissingNumberGame/ 
   ├── Program.cs                # Main entry point and game logic
   ├── README.md                 # Project documentation
   └── (bin/ obj/)               # Build artifacts
+```
 
 ## 🤝 Contributing
 
