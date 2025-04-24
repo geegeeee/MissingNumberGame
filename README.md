@@ -37,7 +37,8 @@ A simple console application written in C# that helps users find the missing num
 
 # 3. Run the application
     dotnet run
-'''
+```
+
 ##💡 How to Use
 
 After you run the program:
