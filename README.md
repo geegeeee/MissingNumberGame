@@ -46,12 +46,12 @@ After you run the program:
 2. The app will find and display the missing number in the sequence.
 3. If the input format is wrong or has issues (like duplicates or out-of-range values), it will let you retry.
 
-##📁 Project Structure
+## 📁 Project Structure
 MissingNumberGame/
-├── Program.cs                # Main entry point and game logic
-├── README.md                 # Project documentation
-└── (bin/ obj/)               # Build artifacts
+    ├── Program.cs                # Main entry point and game logic
+    ├── README.md                 # Project documentation
+    └── (bin/ obj/)               # Build artifacts
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
