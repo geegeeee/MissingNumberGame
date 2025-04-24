@@ -48,9 +48,9 @@ After you run the program:
 
 ## 📁 Project Structure
 MissingNumberGame/
-├── Program.cs                # Main entry point and game logic
-├── README.md                 # Project documentation
-└── (bin/ obj/)               # Build artifacts
+  ├── Program.cs                # Main entry point and game logic
+  ├── README.md                 # Project documentation
+  └── (bin/ obj/)               # Build artifacts
 
 ## 🤝 Contributing
 
