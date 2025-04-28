@@ -39,7 +39,7 @@ A simple console application written in C# that helps users find the missing num
     dotnet run
 ```
 
-##💡 How to Use
+## 💡 How to Use
 
 After you run the program:
 1. You'll be prompted to enter a series of comma-separated numbers (e.g., 3,0,1).
@@ -47,10 +47,12 @@ After you run the program:
 3. If the input format is wrong or has issues (like duplicates or out-of-range values), it will let you retry.
 
 ## 📁 Project Structure
-MissingNumberGame/
-    ├── Program.cs                # Main entry point and game logic
-    ├── README.md                 # Project documentation
-    └── (bin/ obj/)               # Build artifacts
+```bash
+MissingNumberGame/ 
+  ├── Program.cs                # Main entry point and game logic
+  ├── README.md                 # Project documentation
+  └── (bin/ obj/)               # Build artifacts
+```
 
 ## 🤝 Contributing
 

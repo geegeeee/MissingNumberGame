@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("missingNumGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+729f4c29b2b07c421ccef393c401e26c9ccf4e42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8604f350c10c5f42d34f7e3b8bbaa5119334124")]
 [assembly: System.Reflection.AssemblyProductAttribute("missingNumGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("missingNumGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
