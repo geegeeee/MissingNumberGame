@@ -4,6 +4,11 @@ A simple console application written in C# that helps users find the missing num
 
 ---
 
+## 🖼️ Preview
+![alt text](image.png)
+
+---
+
 ## 📌 Features
 
 - Takes user input of numbers (e.g., `3,0,1`) via console
