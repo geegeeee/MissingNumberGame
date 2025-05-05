@@ -22,6 +22,8 @@ A simple console application written in C# that helps users find the missing num
 - Runtime: .NET 6+ (or any version compatible with C# 9.0+)
 - IDE: Visual Studio Code or Visual Studio
 
+---
+
 ## 🚀 How to Run Locally
 
 ### ✅ Prerequisites
