@@ -2,6 +2,8 @@
 
 A simple console application written in C# that helps users find the missing number from a sequence of unique integers ranging from 0 to _n_, where one number is missing.
 
+---
+
 ## 📌 Features
 
 - Takes user input of numbers (e.g., `3,0,1`) via console
@@ -11,6 +13,8 @@ A simple console application written in C# that helps users find the missing num
 - Calculates the missing number using arithmetic sum formula
 - Error handling and retry mechanism for invalid inputs
 - Clean, modular code using interfaces and separation of concerns
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -24,6 +28,7 @@ A simple console application written in C# that helps users find the missing num
 
 - [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine
 - A terminal or command line interface
+
 
 ### 📦 Steps
 
@@ -39,12 +44,16 @@ A simple console application written in C# that helps users find the missing num
     dotnet run
 ```
 
+---
+
 ## 💡 How to Use
 
 After you run the program:
 1. You'll be prompted to enter a series of comma-separated numbers (e.g., 3,0,1).
 2. The app will find and display the missing number in the sequence.
 3. If the input format is wrong or has issues (like duplicates or out-of-range values), it will let you retry.
+
+---
 
 ## 📁 Project Structure
 ```bash
@@ -54,6 +63,14 @@ MissingNumberGame/
   └── (bin/ obj/)               # Build artifacts
 ```
 
+---
+
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 👩‍💻 Author
+Gigi Nwe (2025)
+
